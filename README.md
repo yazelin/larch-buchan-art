@@ -13,6 +13,7 @@ Larch 的卡片經 jsDelivr 取用這裡的圖，載入比較快：
 |---|---|
 | `cg/` | 五卷用到的 CG、地圖與動圖（webp、avif），檔名跟產線裡的檔名相同 |
 | `stickers/r2/` | 《仙泉．香布纏．表情包》64 張透明 WebP 與封面（Larch 素材包 `pack-aee50bb9-5197-4fc0-8353-c2c7b62b7c8b`，產線 `larch-taoyuan/buchan/stickers.py`） |
+| `thumbs/` | CG 縮圖（720px），公開資料站的 CG 圖廊用 |
 | `sfx/` | Larch 內建音效沒有的自製音效 |
 | `bgm/` | 混了環境音的配樂（火聲、風聲）；原聲帶本身在 [larch-buchan-canon](https://github.com/yazelin/larch-buchan-canon) 的 `music/` |
 | `larch_r2_map.json` | 第一、二卷原本放在 Larch 素材庫的網址，對到這裡的檔名（圖是 `cg/` 檔名，音樂寫明 `music/` 或 `bgm/`） |
