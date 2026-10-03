@@ -13,7 +13,8 @@ Larch 的卡片經 jsDelivr 取用這裡的圖，載入比較快：
 |---|---|
 | `cg/` | 五卷用到的 CG、地圖與動圖（webp、avif），檔名跟產線裡的檔名相同 |
 | `sfx/` | Larch 內建音效沒有的自製音效 |
-| `larch_r2_map.json` | 第一、二卷原本放在 Larch 素材庫的網址，對到 `cg/` 裡的檔名 |
+| `bgm/` | 混了環境音的配樂（火聲、風聲）；原聲帶本身在 [larch-buchan-canon](https://github.com/yazelin/larch-buchan-canon) 的 `music/` |
+| `larch_r2_map.json` | 第一、二卷原本放在 Larch 素材庫的網址，對到這裡的檔名（圖是 `cg/` 檔名，音樂寫明 `music/` 或 `bgm/`） |
 
 圖是產生出來的，不要直接在這裡改；換圖從 `larch-taoyuan` 重新同步。
 
